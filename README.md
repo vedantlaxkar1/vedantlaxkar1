@@ -67,7 +67,7 @@ Utilizing Git and GitHub for clean branch management, test-driven development (T
 ---
 
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=vedantlaxkar&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=vedantlaxkar1&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 ---
