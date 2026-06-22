@@ -82,5 +82,5 @@ Utilizing Git and GitHub for clean branch management, test-driven development (T
 </div>
 
 <p align="center">
- <img width="1000" src="https://github.com/vedantlaxkar/vedantlaxkar1/raw/main/assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="https://github.com/vedantlaxkar1/vedantlaxkar1/raw/main/assets/github-snake.svg" alt="snake"/>
 </p>
