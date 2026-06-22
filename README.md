@@ -73,14 +73,14 @@ Utilizing Git and GitHub for clean branch management, test-driven development (T
 ---
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=vedantlaxkar&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavkhandelwal12&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=vedantlaxkar1&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantlaxkar1&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=vedantlaxkar&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=vedantlaxkar1&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 <p align="center">
- <img width="1000" src="https://github.com/vedantlaxkar/vedantlaxkar/raw/main/assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="https://github.com/vedantlaxkar/vedantlaxkar1/raw/main/assets/github-snake.svg" alt="snake"/>
 </p>
