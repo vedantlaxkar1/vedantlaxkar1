@@ -3,8 +3,8 @@
 I'm a Machine Learning Engineer who loves turning complex AI research into actual, working software. Right now, I'm focused on natural language processing, deploying local LLMs, and building high-throughput data pipelines.
 
 ### About Me:
-- 🌱 Currently architecting local deep learning pipelines, leveraging Python's ML ecosystem to turn complex data into working software.
-- 💻 Actively engineering backend AI systems, with a strong focus on optimizing algorithms for automated data workflows.
+- 🌱 Currently expanding my deep learning infrastructure skills, mastering Python libraries for advanced data modeling.
+- 💻 Actively refining production-level code, specializing in the implementation and deployment of machine learning algorithms.
 
 - Visit my portfolio for a detailed overview of my projects and skills: [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=github)](https://vedantlaxkar.github.io/)
 
@@ -18,62 +18,51 @@ I'm a Machine Learning Engineer who loves turning complex AI research into actua
 
 [![LinkedIn](https://img.shields.io/twitter/url?label=Follow%20%40vedant-laxkar-128107259/&logo=linkedin&style=social&url=https://www.linkedin.com/in/vedant-laxkar-128107259/)](https://www.linkedin.com/in/vedant-laxkar-128107259/)
 
-### 🚀 Skills & Experience Over Time:
+### 🚀 What I'm Building Right Now:
 
-- **Machine Learning & Data Science Projects:**  
-  Worked on a range of machine learning models including classification, regression, and clustering. Built complete pipelines and explored real-world datasets. Check out my [GitHub projects](https://github.com/vedantlaxkar/SoftRawintern).
+- **AdPatterns:**  
+  Currently, I am leading the core AI engineering for AdPatterns under Shorya Technologies. AdPatterns is a proprietary, intelligent marketing automation platform designed to optimize and scale performance across major advertising networks.Check out my [GitHub projects](https://github.com/vedantlaxkar1/adpatterns).
 
-- **Deep Learning & Neural Networks:**  
+  #### My engineering focus on this platform includes:
   Built and trained deep learning models using TensorFlow and Keras for tasks like image classification and sequence modeling.
 
-- **Reinforcement Learning:**  
-  Explored RL concepts and implemented foundational algorithms to understand reward-based learning and policy optimization.
+- **On-Premise & Local AI Inference:** Engineering secure, optimized environments for hosting custom-tailored Large Language Models (LLMs) and specialized text-processing transformers to handle semantic extraction and creative copy generation.
 
-- **Data Preprocessing & Feature Engineering:**  
-  Applied techniques like normalization, encoding, and feature selection to prepare high-quality datasets for modeling.
+- **Scalable Intelligence Pipelines:** Designing high-throughput, asynchronous data architectures capable of processing massive marketing datasets, managing dense vector embeddings, and handling complex relational states.
 
-- **Exploratory Data Analysis (EDA):**  
-  Used Pandas, Matplotlib, and Seaborn to discover trends, correlations, and visual insights from complex datasets.
-
-- **Model Evaluation & Optimization:**  
-  Evaluated models using metrics like accuracy, precision, recall, F1-score, and ROC-AUC. Tuned hyperparameters using grid search, random search, and cross-validation.
-
-- **Problem-Solving & DSA:**  
-  Strengthened logical thinking and algorithmic skills through platforms like LeetCode and HackerRank.
-
-- **SQL for Data Handling:**  
-  Gained proficiency in SQL for querying, joining, and managing large datasets in relational databases.
-
-- **Data Pipeline Development:**  
-  Understood the workflow of building automated pipelines for data ingestion, transformation, and analysis.
-
-- **Version Control with Git & GitHub:**  
-  Experienced in using Git and GitHub for version control, collaboration, and project management.
-
-- **Computer Vision & OCR:**  
-  Worked on image processing using OpenCV and text extraction using Tesseract OCR.
-
-- **Libraries & Tools:**  
-  `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-learn`, `TensorFlow`, `OpenCV`, `Tesseract`, `SQL`, `Keras`, `Jupyter`, `Git`, `VS Code`
+- **Automated Ad Tech Engineering:** Building programmatic integrations with corporate ad network Graph interfaces to drive automated campaign distribution, micro-targeting, and real-time performance analytics.
 
 
-### Languages and Tools
+### 🧠 Core Skills & Engineering Experience:
 
-#### Languages:
-| Python3 | 
-|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="70" height="70"/> |
-### Best frameworks and main libraries for Python3:
+- **AI & NLP Product Engineering:**
+Transitioning local ML models into production environments using advanced deep learning frameworks and custom optimization libraries.
 
-| TensorFlow | Numpy | Pandas | Sklearn | OpenCV | Tesseract |
-|------------|-------|--------|---------|--------|-----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow"  alt="TensorFlow" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="70" height="70"/> | <img src="images/Tesseract.jpg" title="Tesseract OCR" alt="Tesseract" width="70" height="70"/> |
+- **Machine Learning & Data Science:**
+Designing end-to-end data pipelines—from feature engineering and exploratory data analysis (EDA) to hyperparameter tuning and cross-validation.
 
-### My tools for Data Manipulation & Visualisation:
+- **Data Engineering & Vector Architectures:**
+Working with relational data structures, caching layers, and semantic vector indexes to build fast, search-optimized AI backends.
 
-| Conda | Jupyter | MySQL | Matplotlib |
-|-------|---------|-------|------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="70" height="70"/> |
+- **Backend Architecture & Web Services:**
+Building modern, asynchronous, and reliable API structures to serve machine learning inferences seamlessly.
+
+- **Version Control & Engineering Best Practices:**
+Utilizing Git and GitHub for clean branch management, test-driven development (TDD), and collaborative code reviews.
+
+
+### 🛠️ Languages, Frameworks, and Tools
+
+#### Languages & Core Libraries:
+| Python3 | PostgreSQL | Machine Learning | Deep Learning |
+|---------|------------|------------------|---------------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="70" height="70"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="70" height="70"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" alt="Scikit-Learn" width="70" height="70"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="70" height="70"/>|
+### Working on models :
+
+|Core NLP & Generative | Semantic Search & Embeddings | Classification & Natural Language Inference | Predictive Analytics & Forecasting | Vision & Creative Generation |
+|----------------------|------------------------------|---------------------------------------------|------------------------------------|------------------------------|
+|<img src="https://img.shields.io/badge/Meta%20Llama%203-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Llama 3" /> | <img src="https://img.shields.io/badge/all--MiniLM-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="all-MiniLM" /> <img src="https://img.shields.io/badge/DeBERTa--v3-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="DeBERTa-v3" /> | <img src="https://img.shields.io/badge/Meta%20Prophet-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Prophet" /> |<img src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />| <img src="https://img.shields.io/badge/Stable%20Diffusion%20XL-5C5CFF?style=for-the-badge" alt="Stable Diffusion XL" /> <img src="https://img.shields.io/badge/OpenAI%20CLIP-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI CLIP" />|
+
 
 ---
 
